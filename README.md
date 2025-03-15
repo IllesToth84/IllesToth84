@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IllesToth84
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React.js and Vue.js
 - 💞️ I’m looking to collaborate on Front End projects
 - 📫 How to reach me: illestothvisualz@gmail.com
 
